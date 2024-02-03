@@ -8,16 +8,16 @@ This solution showed accuracy 92, but it could have been better, since there was
 The approximate accuracy should have been 95 if the model parameters were slightly corrected.
 
 Dataset example:
-аа^к \n
-аа^ка \\
-аа^ке
-аа^ки
-аа^ков
-аа^ком
-аа^м
-аа^му
-аа^ничего
-аа^ничем
-ааро^не
-ааро^ловец
-ааро^новские
+аа^к  
+аа^ка  
+аа^ке  
+аа^ки  
+аа^ков  
+аа^ком  
+аа^м  
+аа^му  
+аа^ничего  
+аа^ничем  
+ааро^не  
+ааро^ловец  
+ааро^новские  

@@ -7,7 +7,7 @@ This solution showed accuracy 92, but it could have been better, since there was
 
 The approximate accuracy should have been 95 if the model parameters were slightly corrected.
 
-Dataset example:
+Dataset example:  
 аа^к  
 аа^ка  
 аа^ке  

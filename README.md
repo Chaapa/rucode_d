@@ -8,7 +8,7 @@ This solution showed accuracy 92, but it could have been better, since there was
 The approximate accuracy should have been 95 if the model parameters were slightly corrected.
 
 Dataset example:
-аа^к \\
+аа^к \n
 аа^ка \\
 аа^ке
 аа^ки
